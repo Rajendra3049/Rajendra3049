@@ -26,9 +26,10 @@
 <hr />
 
 <h3 align="left">⚙️  GitHub Stats:</h3>
-<div style="display=grid" ><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajendra3049&show_icons=true&locale=en&layout=compact" alt="Language used" /></p><br/>
+<div style="display=grid" >
+  <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajendra3049&show_icons=true&locale=en&layout=compact" alt="Language used" /></div><br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajendra3049&show_icons=true&locale=en" alt="GitHub stats" /></p><br/>
+<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajendra3049&show_icons=true&locale=en" alt="GitHub stats" /></div><br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajendra3049&" alt="Contributions" /></p>
+<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajendra3049&" alt="Contributions" /></div>
 </div>
