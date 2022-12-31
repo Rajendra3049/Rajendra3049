@@ -27,7 +27,7 @@
 
 <h3 align="left">⚙️  GitHub Stats:</h3>
 <div display="grid" >
-  <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajendra3049&show_icons=true&locale=en&layout=compact" alt="Language used" /></div><br/>
+  <div style="margin-bottom:50px" ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajendra3049&show_icons=true&locale=en&layout=compact" alt="Language used" /></div><br/>
 
 <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajendra3049&show_icons=true&locale=en" alt="GitHub stats" /></div><br/>
 
