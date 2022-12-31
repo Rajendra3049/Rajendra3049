@@ -29,7 +29,7 @@
 <div style="display=grid" >
   <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajendra3049&show_icons=true&locale=en&layout=compact" alt="Language used" /></div><br/>
 
-<div margin="20px >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajendra3049&show_icons=true&locale=en" alt="GitHub stats" /></div><br/>
+<div margin="20px" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajendra3049&show_icons=true&locale=en" alt="GitHub stats" /></div><br/>
 
 <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajendra3049&" alt="Contributions" /></div>
 </div>
