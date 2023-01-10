@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Rajendrapatel3049@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1W0rZL0tiyd4iOuqErdCRDEqNpXgqni8b/view?usp=share_link](https://drive.google.com/file/d/1W0rZL0tiyd4iOuqErdCRDEqNpXgqni8b/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1W0rZL0tiyd4iOuqErdCRDEqNpXgqni8b/view?usp=share_link)
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="font-size:100px" align="left"> 
