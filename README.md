@@ -1,46 +1,105 @@
-<img width="100%" src="https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966" />
-<h1 align="center">Hi 👋, I'm Rajendra Patel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
+# Rajendra Patel
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+### Software Engineer • Full Stack Developer • Product Engineer
 
-- 🌱 I’m currently learning **React js**
+Building scalable web applications, real-time systems, and modern SaaS platforms using React.js, Next.js, TypeScript, Node.js, and modern full-stack technologies.
 
-- 👨‍💻 All of my projects are available at [https://rajendra3049.github.io/](https://rajendra3049.github.io/)
+<br/>
 
-- 💬 Ask me about **Frontend, Web, software development , DSA**
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://rajendra3049.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajendra-patel-308237238/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajendra3049)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1W0rZL0tiyd4iOuqErdCRDEqNpXgqni8b/view)
 
-- 📫 How to reach me **Rajendrapatel3049@gmail.com**
+</div>
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1W0rZL0tiyd4iOuqErdCRDEqNpXgqni8b/view?usp=share_link)
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<div style="font-size:100px" align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="90"/> </a>&nbsp;
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70" height="90"/> </a>&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="90"/> </a>&nbsp; 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="90"/> </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="90"/> 
-  </a>&nbsp; <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="90"/> </a>&nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="90"/> </a>&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="90"/> </a> &nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="90"/> </a>
-    </div>
+# About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rajendra-patel-308237238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajendra-patel-308237238/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/rj_3049/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rj_3049/" height="30" width="40" /></a>
-</p>
+- Software Engineer with experience building scalable and high-performance web applications
+- Ex-SDE-1 at Omniful, working on real-time logistics and operational workflow systems
+- Passionate about product engineering, scalable frontend architecture, and modern SaaS applications
+- Interested in system design, performance optimization, and AI-assisted workflows
 
-<hr />
+---
 
-<h3 align="left">⚙️  GitHub Stats:</h3>
-<div >
-  <div ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajendra3049&show_icons=true&locale=en&layout=compact" alt="Language used" /></div><br/>
+# Featured Projects
 
-<div >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajendra3049&show_icons=true&locale=en" alt="GitHub stats" /></div><br/>
+## 🚀 TaskOrbit — Productivity & Workflow Management Platform
 
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajendra3049&" alt="Contributions" /></div>
+Scalable productivity platform with task management, realtime workflows, scheduling, and modern SaaS architecture.
+
+### Tech Stack
+Next.js • TypeScript • Supabase • PostgreSQL • Zustand • TanStack Query
+
+🔗 Repository:  
+https://github.com/Rajendra3049/task-orbit
+
+---
+
+## 💰 Hisab Diary — Personal Finance Management Platform
+
+Modern finance management platform featuring expense tracking, budgeting, analytics, recurring transactions, and scalable architecture.
+
+### Tech Stack
+Next.js • TypeScript • Supabase • PostgreSQL • Tailwind CSS
+
+🔗 Repository:  
+https://github.com/Rajendra3049/expense-manager
+
+---
+
+# Tech Stack
+
+## Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+
+## Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+
+## Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+# GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rajendra3049&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajendra3049&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/rajendra-patel-308237238/
+- Portfolio: https://rajendra3049.github.io/
+- Email: rajendrapatel0430@gmail.com
+
+---
+
+<div align="center">
+
+### Building scalable products, modern web applications, and real-world systems 🚀
+
 </div>
