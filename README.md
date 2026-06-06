@@ -93,7 +93,7 @@ https://github.com/Rajendra3049/expense-manager
 # Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/rajendra-patel-308237238/
-- Portfolio: https://rajendra3049.github.io/
+- Portfolio: https://rajendrapatel-portfolio.vercel.app/
 - Email: rajendrapatel0430@gmail.com
 
 ---
